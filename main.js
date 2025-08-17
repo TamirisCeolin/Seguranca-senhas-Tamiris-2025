@@ -51,7 +51,7 @@ function geraSenha() {
         alfabeto = alfabeto + numeros;
     }
 
-    if (checkbox[2].checked) {
+    if (checkbox[3].checked) {
         alfabeto = alfabeto + simbolos;
     }
 
